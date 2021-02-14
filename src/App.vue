@@ -1,7 +1,7 @@
 <template>
   <section>
     <header>
-      <h1>My Friends 1234</h1>
+      <h2>My Friends 1234</h2>
     </header>
     <ul>
       <friend-contact></friend-contact>
